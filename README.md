@@ -5,5 +5,5 @@
 
 ## Preview
 <div class="image" align="center">
-<img src="[screenshot.png](https://github.com/ARAbdulla-Dev/Simple-HTML-JS-Login-Form/blob/master/Screenshot%202024-06-09%20070448.png?raw=true)" />
+<img src="https://github.com/ARAbdulla-Dev/Simple-HTML-JS-Login-Form/blob/master/Screenshot%202024-06-09%20070448.png?raw=true" />
 </div>
